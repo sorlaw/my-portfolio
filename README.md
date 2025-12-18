@@ -7,6 +7,7 @@
 
 A modern, high-performance portfolio website built to showcase projects and skills with a sleek, responsive design. Features smooth animations and a clean user interface.
 
+
 ## 🚀 Features
 
 - **⚡ Modern Tech Stack**: Built with the latest Next.js 16 (App Router) and React 19.
